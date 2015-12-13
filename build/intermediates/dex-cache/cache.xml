@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/marlonrouse/Desktop/swdevprojects/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/marlonrouse/Desktop/swdevprojects/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-b84530360e92bf6045800f75b918633f96c0f3e5.jar" />
+    </item>
+    <item
+        jar="/Users/marlonrouse/Desktop/swdevprojects/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="/Users/marlonrouse/Desktop/swdevprojects/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-f2b5677671d3ffccc25ce0c1960db74e3af4c891.jar" />
+    </item>
+    <item
+        jar="/Users/marlonrouse/Desktop/swdevprojects/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/marlonrouse/Desktop/swdevprojects/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-aca2de67684d23d1efceb7339e6b2f3aeddeefae.jar" />
+    </item>
+    <item
+        jar="/Users/marlonrouse/Desktop/swdevprojects/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/marlonrouse/Desktop/swdevprojects/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-092ce2504bd0d7b07f3a4fb2703de96a41699f0c.jar" />
+    </item>
+    <item
+        jar="/Users/marlonrouse/Documents/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/marlonrouse/Desktop/swdevprojects/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-821cc8b4a013f2e3964dea129da6cc6084c1ee41.jar" />
+    </item>
+    <item
+        jar="/Users/marlonrouse/Desktop/swdevprojects/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/marlonrouse/Desktop/swdevprojects/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-294f1ea925aff6bb92f45da9de46bf3d259787ae.jar" />
+    </item>
+    <item
+        jar="/Users/marlonrouse/Desktop/swdevprojects/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="/Users/marlonrouse/Desktop/swdevprojects/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-4fa388d6163b1f754b9c26f85e1da069df3b65b1.jar" />
+    </item>
+    <item
+        jar="/Users/marlonrouse/Desktop/swdevprojects/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="/Users/marlonrouse/Desktop/swdevprojects/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-f48bc0f1fe5c90868512e052dcc6df66445d5622.jar" />
+    </item>
+    <item
+        jar="/Users/marlonrouse/Desktop/swdevprojects/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/marlonrouse/Desktop/swdevprojects/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-8b2d4df8d74c84e66714eb2308fd545d50d90b55.jar" />
+    </item>
+    <item
+        jar="/Users/marlonrouse/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/1.1.0/d51280dbb4e8539f6c3f369d516edc26f9d89d31/okhttp-1.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d51280dbb4e8539f6c3f369d516edc26f9d89d31">
+        <dex dex="/Users/marlonrouse/Desktop/swdevprojects/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-1.1.0-44f49dbd420c0f714ad3cb9b9b70bd638452f3c3.jar" />
+    </item>
+    <item
+        jar="/Users/marlonrouse/Desktop/swdevprojects/AndroidStudioProjects/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/marlonrouse/Desktop/swdevprojects/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley-79d61e71824c07fc4ef64660de687c25b43866ff.jar" />
+    </item>
+    <item
+        jar="/Users/marlonrouse/Desktop/swdevprojects/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/marlonrouse/Desktop/swdevprojects/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-0859895d367f6cc8e9deae12cc9602609b99e829.jar" />
+    </item>
+
+</items>
